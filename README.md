@@ -12,7 +12,7 @@ For trimming the shell, all you need to do is trace the outline of the port on t
 An alternative to the above is using a 15v trigger board(there are 15v varients of the one above in the same size, in the same listing) and a DC-DC buck converter to lower it to 12v. I haven't personally done this, but I've seen at least one person on reddit do it.
 
 ## Images
-I recommend printing in this orientation:
+I recommend printing in this orientation(with supports):
 ![Print Orientation](https://github.com/MethodOrMadness/GC-USB-C/blob/master/img/bracket1.png?raw=true)
 
 Mounting angle(the front face goes against the inside back of the shell)
