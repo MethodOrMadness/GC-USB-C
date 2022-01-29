@@ -17,3 +17,6 @@ I recommend printing in this orientation(with supports):
 
 Mounting angle(the front face goes against the inside back of the shell)
 ![bracket from mount angle](https://github.com/MethodOrMadness/GC-USB-C/blob/master/img/bracket2.png?raw=true)
+
+Mounting bracket installed(also wiring diagram for the gc power connector, black is - and red is +, duh)
+![bracket installed](https://github.com/MethodOrMadness/GC-USB-C/blob/master/img/bracket_inst.png?raw=true)
